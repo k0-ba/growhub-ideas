@@ -4,7 +4,7 @@
 
 ## *Munkacím*
 AutoPro Master – Minőségügy és Audit alapok *(munkacím)*
-
+#euzert #autoipar #ai 
 ## Alternatív címek és elnevezések
 1. **"Minőségügy gyár nélkül Kick‑Start"**
 2. **"Audit Ninja 15 alkalom alatt"**

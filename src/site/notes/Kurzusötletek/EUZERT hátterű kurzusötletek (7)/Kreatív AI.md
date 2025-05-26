@@ -3,9 +3,9 @@
 ---
 
 
-## *Munkacím* 
+# Kreatív AI: Vizuális tartalomgenerálás eszközei és gyakorlatai *(munkacím)*
 
-### Kreatív AI: Vizuális tartalomgenerálás eszközei és gyakorlatai *(munkacím)***
+### #ai #kreatív 
 
 ## Alternatív címek és elnevezések
 1. **AI Műhely: Képgenerálás, stílus és videóalkotás**
@@ -33,7 +33,7 @@
 | **1.** | **Bevezetés és prompt design** | Áttekintés a generatív vizuális AI világáról, prompt design elvei, hatékony szövegezési minták. Gyakorlati példák különböző AI-eszközökkel. |
 | **2.** | **Képgenerálás alapok: Midjourney és DALL·E** | A legnépszerűbb AI-képgenerálók használata, paraméterek, variációk, seed-ek, upscale. Saját stílusú képek létrehozása és finomhangolása. |
 | **3.** | **Stílus és karakterkonzisztencia** | Hogyan érhető el konzisztens karaktermegjelenítés több képen keresztül? Referenciaképek és controlnet-es logika. Gyakorlati feladatok konzisztens stílus létrehozására. |
-| **4.** | **ComfyUI és haladó képgenerálási technikák** | Open source és finomhangolt felületek, pl. Playground, Leonardo, Confi. Prompt template-ek és layer alapú megközelítés. Komplex képkompozíciók létrehozása. |
+| **4.** | **Konfi UI és haladó képgenerálási technikák** | Open source és finomhangolt felületek, pl. Playground, Leonardo, Confi. Prompt template-ek és layer alapú megközelítés. Komplex képkompozíciók létrehozása. |
 | **5.** | **AI-videókészítés alapjai** | RunwayML, Pika, Sora jellegű eszközök bemutatása, szöveg alapú videógenerálás és videóstílus-váltás. Rövid AI-generált videók készítése. |
 | **6.** | **AI-művészet és kreatív megközelítések** | Valóban művészeti szintű AI-alkotások esettanulmányai, kompozíciós stratégiák, AI mint kreatív partner. Egyedi művészi stílus kialakítása AI segítségével. |
 | **7.** | **Monetizálás és üzleti alkalmazások** | Hogyan érdemes AI-tartalmakat eladni, mik a jogi és branding szempontok, mikor segít az AI valóban időt és pénzt spórolni? Üzleti modell tervezése AI-tartalomra. |

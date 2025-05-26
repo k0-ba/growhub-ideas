@@ -5,6 +5,7 @@
 
 # Design Thinking és UX Vezetőknek *(munkacím)*
 
+### #ux #vezetők #kreatív
 ## Alternatív címek és elnevezések
 1. **UX & Design Thinking Vezetőknek**
 2. **Üzleti Döntések UX Alapon**

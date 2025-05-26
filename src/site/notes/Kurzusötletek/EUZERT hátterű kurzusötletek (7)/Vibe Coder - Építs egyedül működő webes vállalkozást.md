@@ -5,7 +5,7 @@
 
 # *Munkacím* 
 **Vibe Coder – Építs egyedül működő webes vállalkozást *(munkacím)***
-
+#ai #kezdő 
 ## Alternatív címek és elnevezések
 1. **Egyedül a nullától: webes vállalkozás vibe codinggal**
 2. **Solo Builder: online termék saját kézből**

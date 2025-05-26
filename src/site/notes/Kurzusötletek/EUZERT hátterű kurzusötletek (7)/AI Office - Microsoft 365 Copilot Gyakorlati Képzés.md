@@ -5,7 +5,7 @@
 ## *Munkacím*
 
 **AI Office – Microsoft 365 Copilot Gyakorlati Képzés *(munkacím)***
-
+#office #euzert #ai 
 ## Alternatív címek és elnevezések
 1. **„Copilot Gyorstalpaló – Wordtől a Teams‑ig"**
 2. **„Prompt‑vezérelt Iroda – Hatékonyságnövelés AI‑jal"**

@@ -5,6 +5,7 @@
 ## *Munkacím*
 
 **AI-SEC Pro – LLM‑biztonság haladó szakembereknek *(munkacím)***
+#ITSec #ai #haladó
 
 ## Alternatív címek és elnevezések
 1. **AI‑Sec Szkeptikus Mesterkurzus**

@@ -2,29 +2,36 @@
 {"dg-publish":true,"permalink":"/Főoldal/GrowHub Kurzus Ideation/","tags":["gardenEntry"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowTags":true}
 ---
 
-# 🌱 GrowHub Kurzus-Ideation – Főoldal
+# 🌱 GrowHub Ideation – Nyitóoldal
 
-Ez a jegyzetgyűjtemény az **Ideation** szakasz eredményeit tartalmazza – vagyis mindazt a kutatást és ötletelést, amely megalapozza a GrowHub új, B2C-fókuszú kurzusportfólióját.
+## Kontextus – mi ez és miért készült?
+Az **Ideation** jegyzetek a GrowHub B2C-kurzusportfólió előkészítéséhez végzett **piackutatást, versenytérképezést és ötlet-backlogot** gyűjtik egy helyre.  
+Célunk, hogy **adat- és trendalapon** rangsorolt kurzusötleteket kapjunk, melyeket gyors PPC-tesztekkel validálhatunk, mielőtt teljes „[[Blueprint – sablon\|Blueprint – sablon]]” fázisba lépnénk.
 
-## Miért készült a kutatás?
+### Mire *nem* jó?
+- Nem tartalmaz végleges tanmenetet vagy árazást. 
+- 
+- Nem helyettesíti a részletes oktatás-, jogi- vagy pénzügyi tervezést.  
 
-* **Piaci igazolás** – Megérteni, milyen készségekre fizetnek szívesen a 20-35 éves, önfinanszírozó szakemberek.  
-* **Pozicionálás** – Feltérképezni a hazai és nemzetközi versenyt, hogy a GrowHub világos, megkülönböztethető értékajánlatot alakítson ki.  
-* **Ötlet-backlog** – Adat- és trendalapú kurzusötletek listája, amelyek gyors PPC-tesztelésre kész állapotban vannak.
+### Hogyan használjuk?
+1. **Olvasd el a versenytárs-összefoglalókat** (pl. [[Kompetitorelemzés/LABA\|LABA]], [[Kompetitorelemzés/LUMEN\|LUMEN]], [[Kompetitorelemzés/XLABS\|XLABS]]) a piaci árpozíció és formátum megértéséhez.  
+2. **Fuss át a trend-összefoglalókon**:  
+   - [[Nemzetközi trendek/I. Vezetői összefoglaló magyarul\|I. Vezetői összefoglaló magyarul]] – 2 oldalas gyors áttekintés.  
+   - [[Nemzetközi trendek/II. Adult Education Market Segmentation and Hungarian Market Deep Dive\|II. Adult Education Market Segmentation and Hungarian Market Deep Dive]] – globális statisztikák, befektetési trendek.   
+3. **Meríts ötletet a kurzus-backlogból** (pl. *EUZERT-hátterű* vagy *Wildcard* jegyzetek)
 
-## Mit találsz a vaultban?  _(rövid tartalomjegyzék)_
+---
 
-- **[[Kompetitor elemzés\|Kompetitor elemzés]]**  
-  - LABA, LUMEN, XLABS összehasonlító jegyzetek (árazás, formátum, USP-k).  
+## Gyors tartalmi áttekintés 📑
+| Terület | Mire fókuszál? | Kulcs-jegyzetek |
+| --- | --- | --- |
+| Kompetitor-elemzés | Árazás, USP, formátumok | [[Kompetitorelemzés/LABA\|LABA]], [[Kompetitorelemzés/LUMEN\|LUMEN]], [[Kompetitorelemzés/XLABS\|XLABS]] |
+| Piaci trendek | Globális & hazai adatok | [[Nemzetközi trendek/I. Vezetői összefoglaló magyarul\|I. Vezetői összefoglaló magyarul]], [[II. Adult Education Market\|II. Adult Education Market]], [[Segmentation and Hungarian Market Deep Dive\|Segmentation and Hungarian Market Deep Dive]] |
+| Kurzusötletek | Konkrét, PPC-re kész címek | *EUZERT-eredetű* ötlet-jegyzetek, *Wildcard* koncepciók |
+| Kutatási jegyzetek | Interjú-kivonatok, forráshivatkozások | [[Főoldal/GrowHub Kurzus Ideation\|GrowHub Kurzus Ideation]] (ez a fájl), egyéb forrás-jegyzetek |
 
-- **[[Kurzusötletek\|Kurzusötletek]]**  
-  - *EUZERT hátterű kurzusötletek* – régi sikertémák AI-csavarral.  
-  - *Wildcard ötletek* – merész, niche irányok.  
-  - *Újabb kurzustrendek* – friss piaci insightok 6 fős subsettel.  
+> **Tipp:** kezdd a [[Nemzetközi trendek/I. Vezetői összefoglaló magyarul\|I. Vezetői összefoglaló magyarul]] jegyzettel, hogy 5 perc alatt képbe kerülj, majd lépj tovább a versenytárs-összefoglalókra.
 
-- **[[Nemzetközi trendek\|Nemzetközi trendek]]**  
-  - *I. Vezetői összefoglaló magyarul* – 2 oldalas executive digest.  
-  - *II. Adult Education Market* – globális statisztikák, VC-trendek.  
-  - *Segmentation and Hungarian Market Deep Dive* – lokális keresleti kép.  
+---
 
-> **Tipp:** kezdd a [[Kompetitor elemzés\|Kompetitor elemzés]] gyors átfutásával, hogy lásd, hová illik a GrowHub a versenytérképen. Ezután lépj a [[Kurzusötletek\|Kurzusötletek]] mappába, ahol már priorizált backlog vár kibontásra.
+✔️ *A pipálható négyzetekkel* (☑️) jelöld, mely elemzéseket nézted már át, így a csapat átláthatja a haladást.

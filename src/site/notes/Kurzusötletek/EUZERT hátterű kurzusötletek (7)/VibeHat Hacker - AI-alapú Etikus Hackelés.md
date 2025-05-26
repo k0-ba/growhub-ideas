@@ -5,6 +5,8 @@
 
 # VibeHat Hacker - AI-alapú Etikus Hackelés *(munkacím)*
 
+#ITSec #ai #kezdő
+
 ## Alternatív címek és elnevezések
 1. **White-hat hacking AI-val: belépés kódolás nélkül**
 2. **Etikus hackelés kezdőknek LLM-asszisztenciával**

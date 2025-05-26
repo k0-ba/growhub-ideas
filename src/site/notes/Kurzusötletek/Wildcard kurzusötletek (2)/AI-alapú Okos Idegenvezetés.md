@@ -5,6 +5,7 @@
 
 # AI-alapú Okos Idegenvezetés – Gyakorlati elmélet turisztikai szakembereknek *(munkacím)*
 
+### #wildcard #ai
 ## Alternatív címek és elnevezések
 1. **AI a Kulturális Turizmusban – 8 lépéses gyors­talpaló**
 2. **Digitális Idegenvezetés: Útvonal- és Élmény-szerkesztés MI-vel**

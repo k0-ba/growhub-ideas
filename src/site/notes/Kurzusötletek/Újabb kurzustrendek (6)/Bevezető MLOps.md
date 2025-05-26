@@ -3,6 +3,7 @@
 ---
 
 # Bevezető MLOps – Machine Learning Operations a gyakorlatban *(munkacím)*
+#ai #devops #haladó 
 
 ## Alternatív címek és elnevezések
 1. **MLOps alapok üzleti szemmel**

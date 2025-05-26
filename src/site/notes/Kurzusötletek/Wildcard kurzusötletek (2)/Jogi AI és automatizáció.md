@@ -4,6 +4,7 @@
 
 
 # Jogi AI és automatizáció: lehetőségek és korlátok cégvezetőknek és jogászoknak *(munkacím)*
+#wildcard #jog 
 
 ## Alternatív címek és elnevezések
 1. **AI a jogban: hogyan használd felelősen?**

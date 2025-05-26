@@ -5,6 +5,8 @@
 
 # AI-Támogatott Vezetői Asszisztensi Képzés *(munkacím)*
 
+#wildcard #vezetők #office #euzert 
+
 ## Alternatív címek és elnevezések
 1. **Cyborg Titkár(nő)™ – Szintlépés Program Asszisztenseknek és Vezetőknek**
 2. **AI-vel Felvértezett Kabinetfőnök Képzés**

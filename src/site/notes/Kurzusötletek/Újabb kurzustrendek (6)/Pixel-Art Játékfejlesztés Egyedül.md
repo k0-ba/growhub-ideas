@@ -5,6 +5,7 @@
 
 # Pixel-Art Játékfejlesztés Egyedül *(munkacím)*
 
+### #videojáték #kreatív #ai
 ## Alternatív címek és elnevezések
 1. **8‑bites Nagy Kaland: PICO‑8 Game Dev**
 2. **Pixel Artist → Indie Fejlesztő 6 hét alatt**

@@ -6,6 +6,7 @@
 # ## *Munkacím*
 AutoTech Lab – Szoftveres QA, Python & Digitális Twin Automatizálás alapok *(munkacím)*
 
+#euzert #autoipar #ai 
 ## Alternatív címek és elnevezések
 1. **"Code & Compliance Auto"**
 2. **"Bugvadászat ECU nélkül"**
