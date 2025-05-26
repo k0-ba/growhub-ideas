@@ -3,7 +3,8 @@
 ---
 
 
-# AI-alapú Okos Idegenvezetés – Gyakorlati elmélet turisztikai szakembereknek *(munkacím)*
+### Munkacím
+**AI-alapú Okos Idegenvezetés – Gyakorlati elmélet turisztikai szakembereknek** *(munkacím)*
 
 ### #wildcard #ai
 ## Alternatív címek és elnevezések

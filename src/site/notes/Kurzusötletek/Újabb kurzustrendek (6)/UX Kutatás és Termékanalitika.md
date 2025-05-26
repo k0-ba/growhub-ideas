@@ -3,7 +3,8 @@
 ---
 
 
-# UX Kutatás és Termékanalitika *(munkacím)*
+# Munkacím 
+UX Kutatás és Termékanalitika *(munkacím)*
 ### #ux #data 
 ## Alternatív címek és elnevezések
 1. **UX Research Módszertanok A-tól Z-ig**

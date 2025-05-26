@@ -3,7 +3,8 @@
 ---
 
 
-# Jogi AI és automatizáció: lehetőségek és korlátok cégvezetőknek és jogászoknak *(munkacím)*
+## Munkacím
+Jogi AI és automatizáció: lehetőségek és korlátok cégvezetőknek és jogászoknak *(munkacím)*
 #wildcard #jog 
 
 ## Alternatív címek és elnevezések

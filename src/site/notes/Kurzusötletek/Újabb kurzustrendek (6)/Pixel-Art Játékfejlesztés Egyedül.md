@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/Kurzusötletek/Újabb kurzustrendek (6)/Pixel-Art Játékfejlesztés Egyedül/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowTags":true}
 ---
 
-
-# Pixel-Art Játékfejlesztés Egyedül *(munkacím)*
+### Munkacím
+Pixel-Art Játékfejlesztés Egyedül *(munkacím)*
 
 ### #videojáték #kreatív #ai
 ## Alternatív címek és elnevezések
