@@ -4,6 +4,7 @@
 
 # 🌱 GrowHub Ideation & Research
 ### Nyitóoldal
+
 ## Mi ez és miért készült?
 
 > [!check] Célok
@@ -26,11 +27,9 @@
 >  - Nem tartalmaz végleges copy-t, ezt finomítani kell még
  > - Nem tartalmaz végleges árazást
 >  - Nem helyettesíti a részletes oktatás-, jogi- vagy pénzügyi tervezést.
+>    
+>    ![Pasted image 20250526175943.png](/img/user/Pasted%20image%2020250526175943.png)
  
-
-![Pasted image 20250526175943.png](/img/user/Pasted%20image%2020250526175943.png)
-
-
 
 
 ---
@@ -42,10 +41,10 @@
 | Piaci trendek      | Globális & hazai adatok                                       | [[Nemzetközi trendek/I. Vezetői összefoglaló magyarul\|I. Vezetői összefoglaló magyarul]], <br>[[Nemzetközi trendek/II. Adult Education Market Segmentation and Hungarian Market Deep Dive\|II. Adult Education Market Segmentation and Hungarian Market Deep Dive]] |
 | Kurzusötletek      | Kidolgozott kurzusvázlatok, tanrend, copy és ppc ajánlásokkal | [[Főoldal/Kurzusötlet tartalomjegyzék\|Kurzusötlet tartalomjegyzék]]                                                                                      |
 | Kutatási jegyzetek | Interjú-kivonatok, forráshivatkozások                         | [[Főoldal/GrowHub Kurzus Ideation\|GrowHub Kurzus Ideation]] (ez a fájl), egyéb forrás-jegyzetek                                                      |
+A kutatás és az ötletek bemutatása:
 
-> **Tipp:** kezdd a [[Nemzetközi trendek/I. Vezetői összefoglaló magyarul\|I. Vezetői összefoglaló magyarul]] jegyzettel, hogy 5 perc alatt képbe kerülj, majd lépj tovább a versenytárs-összefoglalókra.
+<div style="position: relative; padding-bottom: 66.54343807763401%; height: 0;"><iframe src="https://www.loom.com/embed/354e566f4b934cb8960b156f12b9c2f7?sid=b77b036e-b620-4049-9c62-495576932720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
+____
 ## Made by : 
-
 Bálint Kőszegi & Ádám Nemes 
