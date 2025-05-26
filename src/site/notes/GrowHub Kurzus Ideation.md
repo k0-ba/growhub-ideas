@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/GrowHub Kurzus Ideation/","tags":["gardenEntry"],"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/GrowHub Kurzus Ideation/","tags":["gardenEntry"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowTags":true}
 ---
 
 
