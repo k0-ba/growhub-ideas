@@ -30,7 +30,8 @@ Pixel-Art Játékfejlesztés Egyedül *(munkacím)*
 
 **1. nap – Fantasy‑konzol szemlélet**
 * Megérted a PICO‑8 korlátait és hogy miként segítik a kreativitást.
-* Ikonikus PICO‑8 játékok reverse engineering; Zep Editor használat.
+* Ikonikus PICO‑8 játékok elemzése
+* Fantasy konzolok és pixel art körkép
 
 **2. nap – Játéktervezési elmélet**
 * MDA‑modelltől a core loopig: hogyan lesz az ötletből játszható 2D, egyjátékos élmény.
