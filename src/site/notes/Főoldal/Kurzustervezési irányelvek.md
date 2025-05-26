@@ -51,7 +51,7 @@
 ## 7. Marketing és pozicionálás
 
 * **PPC elsődleges csatornák:** TikTok, Instagram, Facebook – fiatal célcsoport alapján
-* **Landing page + visszahívás/telefonos „closer” modell** (LABA alapján)
+* **Landing page + visszahívás/telefonos „closer” modell** ([[Kompetitorelemzés/LABA\|LABA]] alapján)
 * **A/B tesztelhető címek és tematikák**, gyakran egy-egy fájdalompont köré szervezve (pl. "Nem érted, mit csinál az AI? Most megérted.")
 * **Vizuális márkanyelv:** világos, dinamikus, fiatalos (külön a GrowHub arculat EUZERT-től)
 

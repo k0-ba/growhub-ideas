@@ -111,7 +111,7 @@ A globális felnőttoktatási piac (K12-en túli képzés) 2024-ben már több s
     
 - Index.hu (2023. 12. 21.): „Codecool átveszi a Green Fox tanulóit”.
     
-- LABA.hu, SKVOT.hu, xLabs.hu kurzus‑oldalak.
+- [[Kompetitorelemzés/LABA\|LABA]].hu, SKVOT.hu, [[Kompetitorelemzés/XLABS\|XLABS]].hu kurzus‑oldalak.
     
 - LinkedIn Learning Workplace Report (2024) – L&D büdzsék.
     
