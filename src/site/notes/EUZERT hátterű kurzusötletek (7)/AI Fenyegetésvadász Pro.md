@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/EUZERT hátterű kurzusötletek (7)/AI Fenyegetésvadász Pro/"}
+{"dg-publish":true,"permalink":"/EUZERT hátterű kurzusötletek (7)/AI Fenyegetésvadász Pro/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowTags":true}
 ---
 
 # AI-SEC Pro – LLM‑biztonság haladó szakembereknek *(munkacím)*
