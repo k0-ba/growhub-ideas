@@ -3,7 +3,9 @@
 ---
 
 
-# Kreatív AI: Vizuális tartalomgenerálás eszközei és gyakorlatai *(munkacím)*
+## *Munkacím* 
+
+### Kreatív AI: Vizuális tartalomgenerálás eszközei és gyakorlatai *(munkacím)***
 
 ## Alternatív címek és elnevezések
 1. **AI Műhely: Képgenerálás, stílus és videóalkotás**

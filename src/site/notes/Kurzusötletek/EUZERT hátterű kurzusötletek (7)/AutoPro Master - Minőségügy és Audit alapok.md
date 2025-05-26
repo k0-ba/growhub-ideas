@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/Kurzusötletek/EUZERT hátterű kurzusötletek (7)/AutoPro Master - Minőségügy és Audit alapok/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowTags":true}
 ---
 
-
-# AutoPro Master – Minőségügy és Audit alapok *(munkacím)*
+## *Munkacím*
+AutoPro Master – Minőségügy és Audit alapok *(munkacím)*
 
 ## Alternatív címek és elnevezések
 1. **"Minőségügy gyár nélkül Kick‑Start"**

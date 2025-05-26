@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/Kurzusötletek/EUZERT hátterű kurzusötletek (7)/AI-SEC Pro/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgShowTags":true}
 ---
 
-# AI-SEC Pro – LLM‑biztonság haladó szakembereknek *(munkacím)*
+## *Munkacím*
+
+**AI-SEC Pro – LLM‑biztonság haladó szakembereknek *(munkacím)***
 
 ## Alternatív címek és elnevezések
 1. **AI‑Sec Szkeptikus Mesterkurzus**

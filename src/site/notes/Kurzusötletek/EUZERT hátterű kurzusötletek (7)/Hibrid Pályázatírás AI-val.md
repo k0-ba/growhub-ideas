@@ -3,7 +3,8 @@
 ---
 
 
-# Hibrid Pályázatírás AI‑val – Az első pályázattól a profi munkafolyamatig *(munkacím)*
+## *Munkacím*
+Hibrid Pályázatírás AI‑val – Az első pályázattól a profi munkafolyamatig *(munkacím)*
 
 ## Alternatív címek és elnevezések
 1. **AI‑támogatott Pályázatírás: Kezdőtől a Profi szintig**

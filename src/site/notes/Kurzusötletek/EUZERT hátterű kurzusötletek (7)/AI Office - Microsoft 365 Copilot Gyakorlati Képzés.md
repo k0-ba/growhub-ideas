@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/Kurzusötletek/EUZERT hátterű kurzusötletek (7)/AI Office - Microsoft 365 Copilot Gyakorlati Képzés/","dgShowBacklinks":true,"dgEnableSearch":true,"dgShowTags":true}
 ---
 
+## *Munkacím*
 
-# AI Office – Microsoft 365 Copilot Gyakorlati Képzés *(munkacím)*
+**AI Office – Microsoft 365 Copilot Gyakorlati Képzés *(munkacím)***
 
 ## Alternatív címek és elnevezések
 1. **„Copilot Gyorstalpaló – Wordtől a Teams‑ig"**
