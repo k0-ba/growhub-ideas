@@ -28,7 +28,7 @@
  > - Nem tartalmaz végleges árazást
 >  - Nem helyettesíti a részletes oktatás-, jogi- vagy pénzügyi tervezést.
 >    
->    ![Pasted image 20250526175943.png](/img/user/Pasted%20image%2020250526175943.png)
+>  ![Pasted image 20250526175943.png](/img/user/Pasted%20image%2020250526175943.png)
  
 
 
